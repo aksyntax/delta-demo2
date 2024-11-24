@@ -24,3 +24,6 @@ git remote -v (to verify remote)
 git branch (to check branch)
 git branch -M main(to rename branch)
 git push origin main
+
+
+git push -u origin main -> then we can directly use git push
